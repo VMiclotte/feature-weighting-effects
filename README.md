@@ -3,7 +3,7 @@
 ## Usage:
 Adjust the variables in main function in Main.java as follows.
 
-path: path to folder with folds
+path: path to folder with folds.
 When making folds the parent directory has to contain the .arff file with all data
 e.g. folder Data contains heart.arff and a subfolder heart which the folds will be saved into
 
