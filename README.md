@@ -1,4 +1,4 @@
-# ML-project
+# Effect of feature weighting on fuzzy-rough based classification algorithms.
 
 ## Usage:
 Adjust the variables in main function in Main.java as follows.
